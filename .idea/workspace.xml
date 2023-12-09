@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Ctest" targetName="ctest" />
+      <config projectName="Ctest" targetName="exam2" />
+      <config projectName="Ctest" targetName="exam3" />
+      <config projectName="Ctest" targetName="exam1" />
+      <config projectName="Ctest" targetName="libcunit_android" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2155c7fb-a712-4ff5-b454-668c3931c329" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="2ZIjrsAxXrxLAaMYHzcoqej50xf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dotorom\Lucas.D\Lucas.D-Labs\Protect\Cprojects\CTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dotorom\Lucas.D\Lucas.D-Labs\Protect\Cprojects\CTest\example" />
+      <recent name="C:\Users\dotorom\Lucas.D\Lucas.D-Labs\Protect\Cprojects\CTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.exam3">
+    <configuration name="ctest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ctest" TARGET_NAME="ctest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ctest" RUN_TARGET_NAME="ctest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exam1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ctest" TARGET_NAME="exam1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ctest" RUN_TARGET_NAME="exam1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exam2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ctest" TARGET_NAME="exam2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ctest" RUN_TARGET_NAME="exam2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exam3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ctest" TARGET_NAME="exam3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ctest" RUN_TARGET_NAME="exam3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libcunit_android" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ctest" TARGET_NAME="libcunit_android" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.ctest" />
+      <item itemvalue="CMake Application.exam1" />
+      <item itemvalue="CMake Application.exam2" />
+      <item itemvalue="CMake Application.exam3" />
+      <item itemvalue="CMake Application.libcunit_android" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2155c7fb-a712-4ff5-b454-668c3931c329" name="默认更改列表" comment="" />
+      <created>1702116688778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702116688778</updated>
+      <workItem from="1702116690126" duration="13000" />
+      <workItem from="1702116766343" duration="5782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1702121966798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1702121966798" />
+    <state x="462" y="105" key="FileChooserDialogImpl" timestamp="1702116895435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1702116895435" />
+    <state width="1323" height="162" key="GridCell.Tab.0.bottom" timestamp="1702124897771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1702124897771" />
+    <state width="1323" height="162" key="GridCell.Tab.0.center" timestamp="1702124897770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1702124897770" />
+    <state width="1323" height="162" key="GridCell.Tab.0.left" timestamp="1702124897770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1702124897770" />
+    <state width="1323" height="162" key="GridCell.Tab.0.right" timestamp="1702124897770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1702124897770" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1702122788460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1702122788460" />
+  </component>
+</project>

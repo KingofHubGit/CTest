@@ -1,0 +1,20 @@
+
+
+cc_binary {
+
+    name: "libcunit_android_test",
+
+    include_dirs: [
+        ".",
+        "vendor/datalogic/libdev/cunit_android/CUnit/Headers/",
+    ],
+
+    srcs: [
+        "main.c",
+        "test.c",
+        "testcase.c",
+    ],
+
+    shared_libs: ["libcunit_android"],
+
+}

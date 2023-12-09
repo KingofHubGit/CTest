@@ -1,0 +1,4 @@
+"D:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/EclipseC/MinGW/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/EclipseC/MinGW/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/EclipseC/MinGW/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" C:\Users\dotorom\Lucas.D\Lucas.D-Labs\Protect\Cprojects\CTest
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug

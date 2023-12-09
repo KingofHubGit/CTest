@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/example/exam3.c
+CUnit/Basic.h
+C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/example/CUnit/Basic.h
+CUnit/Console.h
+C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/example/CUnit/Console.h
+CUnit/Automated.h
+C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/example/CUnit/Automated.h
+CUnit/CUCurses.h
+C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/example/CUnit/CUCurses.h
+

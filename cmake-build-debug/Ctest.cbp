@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ctest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\libcunit_android\;CMake Files\example\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ctest">
+				<Option output="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/ctest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/."/>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/./libcunit_android/CUnit/CUnit/Headers"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 ctest"/>
+					<CompileFile command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ctest/fast">
+				<Option output="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/ctest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/."/>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/./libcunit_android/CUnit/CUnit/Headers"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 ctest/fast"/>
+					<CompileFile command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exam1">
+				<Option output="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/exam1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/."/>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/./libcunit_android/CUnit/CUnit/Headers"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 exam1"/>
+					<CompileFile command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exam1/fast">
+				<Option output="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/exam1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/."/>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/./libcunit_android/CUnit/CUnit/Headers"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 exam1/fast"/>
+					<CompileFile command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exam2">
+				<Option output="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/exam2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/."/>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/./libcunit_android/CUnit/CUnit/Headers"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 exam2"/>
+					<CompileFile command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exam2/fast">
+				<Option output="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/exam2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/."/>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/./libcunit_android/CUnit/CUnit/Headers"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 exam2/fast"/>
+					<CompileFile command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exam3">
+				<Option output="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/exam3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/."/>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/./libcunit_android/CUnit/CUnit/Headers"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 exam3"/>
+					<CompileFile command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exam3/fast">
+				<Option output="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/exam3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/."/>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/./libcunit_android/CUnit/CUnit/Headers"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 exam3/fast"/>
+					<CompileFile command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libcunit_android">
+				<Option output="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/libcunit_android/liblibcunit_android.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/libcunit_android"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/."/>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/./libcunit_android/CUnit/CUnit/Headers"/>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/libcunit_android/./CUnit/CUnit/Headers"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/libcunit_android/Makefile&quot;  VERBOSE=1 libcunit_android"/>
+					<CompileFile command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/libcunit_android/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/libcunit_android/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/libcunit_android/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libcunit_android/fast">
+				<Option output="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/libcunit_android/liblibcunit_android.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/libcunit_android"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/."/>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/./libcunit_android/CUnit/CUnit/Headers"/>
+					<Add directory="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/libcunit_android/./CUnit/CUnit/Headers"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\eclipsec\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/libcunit_android/Makefile&quot;  VERBOSE=1 libcunit_android/fast"/>
+					<CompileFile command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/libcunit_android/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/libcunit_android/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/EclipseC/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/cmake-build-debug/libcunit_android/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/example/exam1.c">
+			<Option target="exam1"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/example/exam2.c">
+			<Option target="exam2"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/example/exam3.c">
+			<Option target="exam3"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/example/test.c">
+			<Option target="exam2"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/example/testcase.c">
+			<Option target="exam2"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/libcunit_android/CUnit/CUnit/Sources/Automated/Automated.c">
+			<Option target="libcunit_android"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/libcunit_android/CUnit/CUnit/Sources/Basic/Basic.c">
+			<Option target="libcunit_android"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/libcunit_android/CUnit/CUnit/Sources/Console/Console.c">
+			<Option target="libcunit_android"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/libcunit_android/CUnit/CUnit/Sources/Framework/CUError.c">
+			<Option target="libcunit_android"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/libcunit_android/CUnit/CUnit/Sources/Framework/MyMem.c">
+			<Option target="libcunit_android"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/libcunit_android/CUnit/CUnit/Sources/Framework/TestDB.c">
+			<Option target="libcunit_android"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/libcunit_android/CUnit/CUnit/Sources/Framework/TestRun.c">
+			<Option target="libcunit_android"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/libcunit_android/CUnit/CUnit/Sources/Framework/Util.c">
+			<Option target="libcunit_android"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/libcunit_android/CUnit/CUnit/Sources/Test/test_cunit.c">
+			<Option target="libcunit_android"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/libcunit_android/CUnit/CUnit/Sources/Test/test_cunit.h">
+			<Option target="libcunit_android"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/tests/main.c">
+			<Option target="ctest"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/tests/test.c">
+			<Option target="ctest"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/tests/testcase.c">
+			<Option target="ctest"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/libcunit_android/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libcunit_android\"/>
+		</Unit>
+		<Unit filename="C:/Users/dotorom/Lucas.D/Lucas.D-Labs/Protect/Cprojects/CTest/example/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\example\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

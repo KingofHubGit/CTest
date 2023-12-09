@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\exam3.dir/objects.a
+D:\EclipseC\MinGW\bin\ar.exe cr CMakeFiles\exam3.dir/objects.a @CMakeFiles\exam3.dir\objects1.rsp
+D:\EclipseC\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\exam3.dir/objects.a -Wl,--no-whole-archive  -o exam3.exe -Wl,--out-implib,libexam3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\exam3.dir\linklibs.rsp
