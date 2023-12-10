@@ -707,7 +707,8 @@ static CU_ErrorCode automated_list_all_tests(CU_pTestRegistry pRegistry, const c
                 "        </TEST_CASE_DEFINITION> \n",
                 pTest->pName,
                 (CU_FALSE != pSuite->fActive) ? _("Yes") : _("No"),
-                (NULL == pTest || NULL == pTest->pTestResult ) ? _("null") : _(pTest->pTestResult)
+                //(NULL == pTest || NULL == pTest->pTestResult ) ? _("null") : _(pTest->pTestResult)
+                "ABC"
                 );
         pTest = pTest->pNext;
       }

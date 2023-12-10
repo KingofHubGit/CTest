@@ -34,22 +34,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2155c7fb-a712-4ff5-b454-668c3931c329" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exam3.dir/example/exam3.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exam3.dir/example/exam3.c.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exam3.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/exam3.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/exam3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/exam3.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/libcunit_android/CMakeFiles/libcunit_android.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libcunit_android/CMakeFiles/libcunit_android.dir/C.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/libcunit_android/CMakeFiles/libcunit_android.dir/CUnit/CUnit/Sources/Automated/Automated.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libcunit_android/CMakeFiles/libcunit_android.dir/CUnit/CUnit/Sources/Automated/Automated.c.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/libcunit_android/liblibcunit_android.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libcunit_android/liblibcunit_android.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/exam3.c" beforeDir="false" afterPath="$PROJECT_DIR$/example/exam3.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Sources/Automated/Automated.c" beforeDir="false" afterPath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Sources/Automated/Automated.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Xml/CUnit-List.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Xml/CUnit-List.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Xml/CUnit-List.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Xml/CUnit-List.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Xml/CUnit-Run.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Xml/CUnit-Run.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Xml/CUnit-Run.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Xml/CUnit-Run.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Xml/Memory-Dump.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Xml/Memory-Dump.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Xml/Memory-Dump.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/libcunit_android/CUnit/CUnit/Xml/Memory-Dump.xsl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702116688778</updated>
       <workItem from="1702116690126" duration="13000" />
-      <workItem from="1702116766343" duration="10138000" />
+      <workItem from="1702116766343" duration="11543000" />
     </task>
     <servers />
   </component>
@@ -158,22 +149,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1702116895435" />
-    <state width="1323" height="197" key="GridCell.Tab.0.bottom" timestamp="1702200927704">
+    <state width="1323" height="197" key="GridCell.Tab.0.bottom" timestamp="1702220628021">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1702200927704" />
-    <state width="1323" height="197" key="GridCell.Tab.0.center" timestamp="1702200927704">
+    <state width="1323" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1702220628021" />
+    <state width="1323" height="197" key="GridCell.Tab.0.center" timestamp="1702220628020">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1702200927704" />
-    <state width="1323" height="197" key="GridCell.Tab.0.left" timestamp="1702200927704">
+    <state width="1323" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1702220628020" />
+    <state width="1323" height="197" key="GridCell.Tab.0.left" timestamp="1702220628020">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1702200927704" />
-    <state width="1323" height="197" key="GridCell.Tab.0.right" timestamp="1702200927704">
+    <state width="1323" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1702220628020" />
+    <state width="1323" height="197" key="GridCell.Tab.0.right" timestamp="1702220628020">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1702200927704" />
+    <state width="1323" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1702220628020" />
     <state x="182" y="44" width="1056" height="668" key="find.popup" timestamp="1702201304311">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
