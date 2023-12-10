@@ -11,21 +11,25 @@ int clean_suite_failure(void) { return -1; }
 void test_success1(void)
 {
     CU_ASSERT(CU_TRUE);
+    CU_get_current_test()->pTestResult="ABC";
 }
 
 void test_success2(void)
 {
     CU_ASSERT_NOT_EQUAL(2, -1);
+    CU_get_current_test()->pTestResult="ABC";
 }
 
 void test_success3(void)
 {
     CU_ASSERT_STRING_EQUAL("string #1", "string #1");
+    CU_get_current_test()->pTestResult="ABC";
 }
 
 void test_success4(void)
 {
     CU_ASSERT_STRING_NOT_EQUAL("string #1", "string #2");
+    CU_get_current_test()->pTestResult="ABC";
 }
 
 void test_failure1(void)

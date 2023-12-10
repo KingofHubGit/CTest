@@ -50,11 +50,12 @@
 				<td colspan="8"> </td>
 			</tr>
 			<tr>
-				<td width="44%" colspan="2" bgcolor="#f0f0e0"> </td>
-				<td width="14%" bgcolor="#f0f0e0" align="center"> <b> Initialize Function? </b> </td>
-				<td width="14%" bgcolor="#f0f0e0" align="center"> <b> Cleanup Function? </b> </td>
-				<td width="14%" bgcolor="#f0f0e0" align="center"> <b> Test Count </b> </td>
-				<td width="14%" bgcolor="#f0f0e0" align="center"> <b> Active? </b> </td>
+				<td width="40%" colspan="2" bgcolor="#f0f0e0"> </td>
+				<td width="10%" bgcolor="#f0f0e0" align="center"> <b> Initialize Function? </b> </td>
+				<td width="10%" bgcolor="#f0f0e0" align="center"> <b> Cleanup Function? </b> </td>
+				<td width="10%" bgcolor="#f0f0e0" align="center"> <b> Test Count </b> </td>
+				<td width="10%" bgcolor="#f0f0e0" align="center"> <b> Active? </b> </td>
+				<td width="20%" bgcolor="#f0f0e0" align="center"> <b> Result </b> </td>
 			</tr>
 			<xsl:apply-templates/>
 		</table>
@@ -94,6 +95,9 @@
 			</td>
 			<td align="center" bgcolor="#e0e0d0">
 				<xsl:value-of select="TEST_ACTIVE_VALUE" />
+			</td>
+			<td align="center" bgcolor="#e0e0d0">
+				<xsl:value-of select="TEST_RESULT" />
 			</td>
 		</tr>
 	</xsl:template>
